@@ -5,10 +5,11 @@ material is a summary/personal noteswhile tackling the material from the famous 
 of Mckinney (creator of Pandas) "Python for Data Analysis".
 
 The notebook is splitted in 4 chapters:
--Managing Dataframes
--Grouping Data
--Handling missing values
--using hieararchical indexing
+
+ -Managing Dataframes
+ -Grouping Data
+ -Handling missing values
+ -using hieararchical indexing
 
 
 
