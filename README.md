@@ -4,6 +4,12 @@ The basic libraries for manipulating data in Python are Pandas and Numpy. The as
 material is a summary/personal noteswhile tackling the material from the famous book
 of Mckinney (creator of Pandas) "Python for Data Analysis".
 
-The notebook is splitted in 3 chapters: 
+The notebook is splitted in 4 chapters:
+-Managing Dataframes
+-Grouping Data
+-Handling missing values
+-using hieararchical indexing
+
+
 
  
