@@ -9,7 +9,7 @@ The notebook is splitted in 4 chapters:
 - Managing Dataframes
 - Grouping Data
 - Handling missing values
-- using hieararchical indexing
+- Using hieararchical indexing
 
 
 
